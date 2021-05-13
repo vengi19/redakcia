@@ -2,3 +2,7 @@ Autor: Jozef Venglovič
 Nazov: F1
 Datum: 13.05.2021
 ----
+Toto je UVOD clanku. Bude o formule 1 a motošporte.
+Budeme sa zaoberať ďalšou veľkou cenou.
+V obsahu sa dočítate viac.
+----
