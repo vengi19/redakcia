@@ -2,3 +2,7 @@ Autor: Jozef Venglovič
 Nazov: F1
 Datum: 13.05.2021
 ----
+Tento text predstavuje UVOD clanku. Bude hned pod styrmi pomlckami
+a bude vzdy na 3 riadkoch bez ohladu na to
+ake dlhe budu.
+----
