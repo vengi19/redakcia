@@ -1,0 +1,15 @@
+Autor: Jozef Venglovič
+Nazov: F1
+Datum: 13.05.2021
+----
+UVOD clanku.
+Uz o par dni začína veľká cena Monaka.
+Prečítajte si náš článok.
+----
+Tento je OBSAH clanku. Následujúca veľká cena sa bude 
+jazdiť na trati v Monaku.
+Favoritmi sú jazdci Mercedesu.
+----
+Toto je ZAVER clanku.
+Držíme palce každému jazdcovi a veríme,
+že nás čaká zaujímavá Veľká cena. 
