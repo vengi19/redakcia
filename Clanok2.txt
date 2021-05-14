@@ -1,0 +1,15 @@
+Autor: Jozef Venglovič
+Nazov: F1
+Datum: 13.05.2021
+----
+Toto je UVOD.
+Clanok je venovany vsetkym fanusikom motosportu
+a hlavne fanusikom F1.
+----
+Tento je OBSAH clanku. Následujúca veľká cena sa bude 
+jazdiť na trati v Monaku.
+Favoritmi sú jazdci Mercedesu.
+----
+Tento text predstavuje ZAVER clanku. Bude hned pod styrmi pomlckami
+a bude vzdy na 3 riadkoch bez ohladu na to
+ake dlhe budu.
